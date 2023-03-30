@@ -9,5 +9,5 @@ const school_1 = require("./school");
 const super_admin_1 = __importDefault(require("./super-admin"));
 const router = (0, express_1.Router)();
 exports.appRoutes = router;
-router.use(super_admin_1.default);
+router.use("/api/admin", super_admin_1.default);
 router.use(school_1.schoolRoutes);

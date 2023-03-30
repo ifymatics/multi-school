@@ -1,0 +1,39 @@
+//POST SCHOOL REGISTRATION REQUEST
+POST http://localhost:5000/api/admin/school-reg-request
+Content-Type: application/json
+
+{
+    "name":"ABC high schhol",
+    "address":"123 Drive Avenue Saudi Arabia",
+    "email":"EFGH@school.com",
+    "phone":"1234567890",
+    "regNo":"1243GB12",
+    "contactPerson":"John Doe"
+}
+###
+//Get SCHOOL by ID
+GET http://localhost:5000/api/admin/school-reg-request/6425c21a8550df2bd0f976bf
+
+###
+//Get all SCHOOLS
+GET http://localhost:5000/api/admin/school-reg-request
+###s
+//update prizes
+PATCH  http://localhost:5000/api/prizes/6425c21a8550df2bd0f976bf
+Content-Type: application/json
+
+{
+    "first":5000000,
+    "second":1000000,
+    "third":100000
+}
+###
+//change userGames scored status
+PATCH http://localhost:5000/api/predicted-cluster/3682051
+Content-Type: application/json
+
+{
+   "scored":false,
+   "max":1673209800000,
+   "min":1673004480000
+}

@@ -5,3 +5,106 @@
 2023-03-28 00:27:29 info: multi-school node server is listening on port 5000 in undefined mode
 2023-03-28 00:27:47 info: multi-school node server is listening on port 5000 in undefined mode
 2023-03-28 00:28:27 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-28 08:37:18 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:25:23 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:29:37 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:30:00 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:30:04 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:31:38 error: Error occured while connecting to database with:{}
+2023-03-30 17:31:38 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:32:20 error: Error occured while connecting to database with:{}
+2023-03-30 17:32:20 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:42:54 error: Error occured while connecting to database with:{}
+2023-03-30 17:42:54 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:42:59 error: Error occured while connecting to database with:{}
+2023-03-30 17:42:59 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:43:21 error: Error occured while connecting to database with:{}
+2023-03-30 17:43:21 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:43:59 error: Error occured while connecting to database with:{}
+2023-03-30 17:43:59 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:44:04 error: Error occured while connecting to database with:{}
+2023-03-30 17:44:04 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:45:00 error: JWT_KEY must be defined
+2023-03-30 17:46:24 error: Error occured while connecting to database with:{}
+2023-03-30 17:46:24 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:46:35 error: Error occured while connecting to database with:{}
+2023-03-30 17:46:35 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:46:40 error: Error occured while connecting to database with:{}
+2023-03-30 17:46:40 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:47:26 error: Error occured while connecting to database with:{}
+2023-03-30 17:47:26 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:48:34 error: Error occured while connecting to database with:{}
+2023-03-30 17:48:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:48:43 error: Error occured while connecting to database with:{}
+2023-03-30 17:48:43 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:49:05 error: Error occured while connecting to database with:{}
+2023-03-30 17:49:05 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:50:01 error: Error occured while connecting to database with:{}
+2023-03-30 17:50:01 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:50:05 error: Error occured while connecting to database with:{}
+2023-03-30 17:50:05 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:50:46 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:51:26 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:52:20 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:53:48 error: Error occured while connecting to database with:{}
+2023-03-30 17:53:48 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:54:03 error: Error occured while connecting to database with:{}
+2023-03-30 17:54:03 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:54:07 error: Error occured while connecting to database with:{}
+2023-03-30 17:54:07 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:55:11 error: Error occured while connecting to database with:{}
+2023-03-30 17:55:11 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:55:58 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:56:45 error: JWT_KEY must be defined
+2023-03-30 17:57:11 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 17:57:21 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:04:08 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:09:49 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:11:19 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:17:09 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:17:30 error: Error occured while connecting to database with:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 18:17:56 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:18:00 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:18:04 error: Error occured while connecting to database with:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 18:24:24 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:24:33 error: Error occured while connecting to database with:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 18:29:27 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:31:23 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:34:45 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:37:38 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:38:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:38:46 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 18:41:04 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:42:01 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 18:42:59 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:14:38 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:15:32 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:15:45 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:16:28 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:16:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:16:44 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:17:46 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:17:51 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:23:04 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:23:12 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:23:37 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:23:55 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:24:30 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:24:42 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:25:02 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:25:08 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:26:19 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:26:27 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:26:37 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:27:56 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:29:31 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:29:37 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
+2023-03-30 20:41:20 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:41:48 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:48:14 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:49:03 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 20:49:15 error: loggedErr:{"statusCode":500}
+2023-03-30 20:57:54 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 21:03:26 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 21:05:15 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 21:13:48 info: multi-school node server is listening on port 5000 in undefined mode

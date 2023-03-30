@@ -1,0 +1,132 @@
+2023-03-30 17:45:00 error: uncaughtException: JWT_KEY must be defined
+Error: JWT_KEY must be defined
+    at C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js:13:15
+    at Object.<anonymous> (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js:24:3)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-03-30 17:56:45 error: uncaughtException: JWT_KEY must be defined
+Error: JWT_KEY must be defined
+    at C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js:13:15
+    at Object.<anonymous> (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js:24:3)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-03-30 18:35:43 error: uncaughtException: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+Error: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._resolveFilename (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\node_modules\module-alias\index.js:49:29)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js:34:25)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+2023-03-30 18:36:55 error: uncaughtException: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+Error: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._resolveFilename (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\node_modules\module-alias\index.js:49:29)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js:34:25)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+2023-03-30 18:37:01 error: uncaughtException: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+Error: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._resolveFilename (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\node_modules\module-alias\index.js:49:29)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js:34:25)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+2023-03-30 18:37:52 error: uncaughtException: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+Error: Cannot find module '@middlewares/error-handler'
+Require stack:
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js
+- C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._resolveFilename (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\node_modules\module-alias\index.js:49:29)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\app.js:34:25)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+2023-03-30 18:38:46 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 18:42:59 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:15:45 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:16:44 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:17:51 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:23:12 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:25:08 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:26:37 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:29:37 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:19:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-03-30 20:41:57 error: uncaughtException: Error occured while submitting your request
+Error: Error occured while submitting your request
+    at postSchoolReg (C:\Users\Ifeanyi Okorie\Desktop\multi-school\backend\dist\controllers\adminController.js:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
