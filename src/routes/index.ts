@@ -4,6 +4,6 @@ import superAdminRoutes from "./super-admin"
 const router = Router();
 
 router.use("/api/admin", superAdminRoutes);
-router.use(schoolRoutes);
+router.use("/api/school", schoolRoutes);
 
 export { router as appRoutes }

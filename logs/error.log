@@ -33,3 +33,24 @@
 2023-03-30 20:26:37 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
 2023-03-30 20:29:37 error: Error occured while creating school. Error:{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"ABC@school.com"}}
 2023-03-30 20:49:15 error: loggedErr:{"statusCode":500}
+2023-04-03 14:01:50 error: Error occurred while fetching school list. Error:{}
+2023-04-03 14:01:50 error: loggedErr:{"statusCode":500}
+2023-04-03 21:25:00 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 21:29:10 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 21:29:30 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 21:29:49 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:01:19 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:02:34 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:02:43 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:07:13 error: Error connecting to Redis: Error: getaddrinfo ENOTFOUND redis-server
+2023-04-03 22:07:29 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:12:31 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:14:25 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:23:38 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:32:38 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:33:53 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-04 23:17:22 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-04 23:43:12 error: Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l5-20020a5d5265000000b002e55cc69169sm13409847wrc.38 - gsmtp
+2023-04-04 23:46:51 error: Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o11-20020a056000010b00b002de9a0b0a20sm13263473wrx.113 - gsmtp

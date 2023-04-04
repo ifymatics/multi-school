@@ -8,6 +8,8 @@ class SchoolClass {
     public email!: string;
     @prop()
     public phone?: string;
+    @prop()
+    public password!: string;
     @prop({ required: true })
     public regNo!: string;
     @prop({ required: true })

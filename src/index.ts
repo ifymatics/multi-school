@@ -1,4 +1,5 @@
 import { config } from "dotenv";
+import { RedisDb } from "./utils/redis-cache";
 config();
 import app from "./app";
 import { dBconnect } from "./configs/db";
@@ -14,6 +15,7 @@ import { logger } from "./utils/logger";
     }
     try {
         await dBconnect();
+        //await RedisDb.connection()
         const PORT = process.env.PORT || 5000;
         app.listen(PORT, () => {
 

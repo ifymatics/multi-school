@@ -15,6 +15,7 @@ const logger_1 = require("./utils/logger");
     }
     try {
         await (0, db_1.dBconnect)();
+        //await RedisDb.connection()
         const PORT = process.env.PORT || 5000;
         app_1.default.listen(PORT, () => {
             logger_1.logger.info(`multi-school node server is listening on port ${PORT} in ${process.env.NODE_ENV} mode`);

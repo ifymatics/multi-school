@@ -108,3 +108,80 @@
 2023-03-30 21:03:26 info: multi-school node server is listening on port 5000 in undefined mode
 2023-03-30 21:05:15 info: multi-school node server is listening on port 5000 in undefined mode
 2023-03-30 21:13:48 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-30 21:18:29 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:10:53 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:11:16 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:17:23 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:17:29 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:19:42 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:20:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:23:09 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:24:33 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:24:59 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:25:21 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:35:13 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:36:29 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:42:29 info: multi-school node server is listening on port 5000 in undefined mode
+2023-03-31 11:42:35 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-02 18:43:59 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-02 18:44:09 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:20:17 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:20:23 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:21:49 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:22:49 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:24:15 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:34:58 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:42:05 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:52:24 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:52:42 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:53:31 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 13:55:04 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 14:01:41 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 14:01:50 error: Error occurred while fetching school list. Error:{}
+2023-04-03 14:01:50 error: loggedErr:{"statusCode":500}
+2023-04-03 14:12:10 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:00:44 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:05:12 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:21:41 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:22:13 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:24:05 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:25:00 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:25:00 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 21:29:10 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:29:10 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 21:29:30 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:29:30 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 21:29:49 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 21:29:49 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:01:19 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:01:19 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:02:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:02:34 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:02:43 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:02:43 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:07:10 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:07:13 error: Error connecting to Redis: Error: getaddrinfo ENOTFOUND redis-server
+2023-04-03 22:07:29 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:07:29 error: Error connecting to Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:12:31 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:12:31 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:14:25 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:14:25 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:23:38 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:23:38 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:32:38 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:32:38 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-03 22:33:53 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-03 22:33:53 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-04 23:17:22 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-04 23:17:22 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-04 23:22:52 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-04 23:30:30 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-04 23:34:55 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-04 23:35:13 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-04 23:39:13 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-04 23:41:20 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-04 23:43:12 error: Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l5-20020a5d5265000000b002e55cc69169sm13409847wrc.38 - gsmtp
+2023-04-04 23:46:51 error: Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o11-20020a056000010b00b002de9a0b0a20sm13263473wrx.113 - gsmtp
