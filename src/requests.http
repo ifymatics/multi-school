@@ -17,7 +17,7 @@ GET http://localhost:5000/api/admin/school-reg-request/6425c21a8550df2bd0f976bf
 ###
 //Get all SCHOOLS
 GET http://localhost:5000/api/admin/school-reg-request
-###s
+###
 //Admin updates school status with "approved"
 PATCH  http://localhost:5000/api/admin/school-reg-request/6425c21a8550df2bd0f976bf
 Content-Type: application/json
@@ -25,3 +25,55 @@ Content-Type: application/json
 {
    "status":"approved"
 }
+###
+//Create Academic Year
+POST http://localhost:5000/api/schools/academic-year
+Content-Type: application/json
+
+{
+    "title":"2023 winter session",
+    "year":"2023"
+   
+}
+###
+//get all Academic Year
+GET http://localhost:5000/api/schools/academic-year
+Content-Type: application/json
+
+###
+//Create Academic class
+POST http://localhost:5000/api/schools/academic-class
+Content-Type: application/json
+
+{
+    "name":"Level 1",
+    "academicYear":"6432fd66788343ae3b08e17c"
+   
+}
+###
+//Update Academic class
+PATCH http://localhost:5000/api/schools/academic-class/643301942a2f70ce9307953c
+Content-Type: application/json
+
+{
+    "name":"Level 1 updated",
+    "academicYear":"6432fd66788343ae3b08e17c"
+   
+}
+###
+//get all Academic Class
+GET http://localhost:5000/api/schools/academic-class
+
+###
+//Delete Academic class
+DELETE http://localhost:5000/api/schools/academic-class/6432ff3c3e3d8e56c72eb0ed
+###
+//Generate public and private api keys
+POST http://localhost:5000/api/api-keys/
+Content-Type: application/json
+
+{
+    "name":"John Doe"
+}
+
+

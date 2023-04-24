@@ -4,7 +4,7 @@ import { CustomError } from './../errors/custorm-error';
 
 
 export const errorHandler = (error: Error, req: Request, res: Response, next: NextFunction) => {
-    console.log("HERE")
+
     if (error instanceof CustomError) {
         logger.error("loggedErr:" + JSON.stringify(error))
 

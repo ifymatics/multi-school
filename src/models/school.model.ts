@@ -1,5 +1,5 @@
 import { prop, getModelForClass } from "@typegoose/typegoose"
-import { EnumType } from "typescript";
+
 class SchoolClass {
     @prop({ required: true })
     public name!: string

@@ -93,6 +93,7 @@ function deleteCache(key: string) {
     }
 }
 
-export const memCache = { set: setCache, get: getCache, del: deleteCache }
+const memCache = { set: setCache, get: getCache, del: deleteCache }
+export { memCache as cache }
 
 // export default cache

@@ -1,0 +1,5 @@
+export { AcademicYear } from "./academic-year.model"
+export { AcademicClass } from "./academic-class.model"
+export { School } from "./school.model"
+export { Student } from "./student.model"
+export { User } from "./user.model" 

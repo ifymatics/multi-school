@@ -1,5 +1,6 @@
-import { getModelForClass, prop, Ref } from "@typegoose/typegoose";
-import { AcademicClass } from "./class.model"
+import { getModelForClass, prop, Ref, types } from "@typegoose/typegoose";
+import { AcademicClass } from "./academic-class.model"
+import { Schema } from "mongoose";
 class StudentClass {
     @prop({ required: true })
     public fullName!: string
@@ -19,7 +20,7 @@ class StudentClass {
     public profilePic?: string;
     @prop()
     public dateOfBirth!: string;
-    @prop()
+    @prop({ required: true, ref: () => AcademicClass, type: () => Schema.Types.ObjectId })
     public class?: Ref<typeof AcademicClass>;
 }
-const Student = getModelForClass(StudentClass)
+export const Student = getModelForClass(StudentClass)

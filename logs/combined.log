@@ -185,3 +185,133 @@
 535 5.7.8  https://support.google.com/mail/?p=BadCredentials l5-20020a5d5265000000b002e55cc69169sm13409847wrc.38 - gsmtp
 2023-04-04 23:46:51 error: Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
 535 5.7.8  https://support.google.com/mail/?p=BadCredentials o11-20020a056000010b00b002de9a0b0a20sm13263473wrx.113 - gsmtp
+2023-04-05 00:18:07 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-06 20:17:25 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-06 20:17:41 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-06 20:20:44 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-06 20:20:44 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-08 17:10:09 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:10:09 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-08 17:10:14 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:10:14 error: Error connecting to Redis Error: connect ECONNREFUSED 127.0.0.1:6379
+2023-04-08 17:10:46 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:12:45 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:28:31 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:31:49 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:35:01 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:37:47 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:38:51 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:43:07 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:43:55 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:51:03 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:53:32 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 17:53:44 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:02:01 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:02:12 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:02:44 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:03:02 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:05:33 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:07:29 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:08:36 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:09:22 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:11:37 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:18:50 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:23:25 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:28:30 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-08 18:29:47 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 17:04:01 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 17:09:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 17:11:27 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 17:50:25 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 17:50:49 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 17:51:05 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 17:51:19 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:08:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:10:54 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:24:51 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:48:07 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:51:15 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:51:35 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:55:54 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:56:33 error: {"expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"title\":\"2023 winter session\",\r\n    \"year\":\"2023\",\r\n   \r\n}","type":"entity.parse.failed"}
+2023-04-09 18:56:33 error: loggedErr:{"expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"title\":\"2023 winter session\",\r\n    \"year\":\"2023\",\r\n   \r\n}","type":"entity.parse.failed"}
+2023-04-09 18:59:06 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 18:59:16 error: loggedErr:{"statusCode":400}
+2023-04-09 19:00:21 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 19:01:01 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 19:04:53 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 19:08:09 error: loggedErr:{"statusCode":400}
+2023-04-09 19:14:02 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 19:21:16 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 19:23:23 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-09 19:37:11 error: loggedErr:{"statusCode":400}
+2023-04-09 19:42:37 error: loggedErr:{"statusCode":400}
+2023-04-09 19:44:47 error: Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v5-20020a5d6785000000b002ca864b807csm9835878wru.0 - gsmtp
+2023-04-10 04:16:25 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-10 04:16:33 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-10 04:17:06 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 10:24:06 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 10:26:14 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 10:58:14 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 11:07:45 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 11:13:08 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 13:45:57 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 13:50:54 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 13:51:05 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 14:49:36 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 14:50:14 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 14:50:22 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:01:01 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:03:30 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:03:38 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:04:40 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:04:50 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:06:16 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:06:24 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:24:10 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:33:25 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:38:40 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:51:23 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 15:51:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 16:00:37 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 16:00:47 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 16:11:06 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 16:11:15 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 16:14:47 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 16:16:56 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 16:21:18 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 19:59:08 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 20:03:40 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 20:11:02 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 20:15:53 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 20:36:34 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 22:10:52 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 22:21:44 info: multi-school node server is listening on port 5000 in undefined mode
+2023-04-19 23:38:53 error: Error occurred while creating academicYear. Error:{}
+2023-04-19 23:38:53 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-19 23:38:53 error: Error occurred while creating academicClass. Error:{}
+2023-04-19 23:41:19 error: Error occurred while creating academicYear. Error:{}
+2023-04-19 23:41:19 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-19 23:41:19 error: Error occurred while creating academicClass. Error:{}
+2023-04-19 23:44:45 error: Error occurred while creating academicYear. Error:{}
+2023-04-19 23:44:45 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-19 23:44:45 error: Error occurred while creating academicClass. Error:{}
+2023-04-20 06:17:17 error: Error occurred while creating academicYear. Error:{}
+2023-04-20 06:17:17 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-20 06:17:17 error: Error occurred while creating academicClass. Error:{}
+2023-04-20 06:20:41 error: Error occurred while creating academicYear. Error:{}
+2023-04-20 06:20:41 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-20 06:20:41 error: Error occurred while creating academicClass. Error:{}
+2023-04-20 06:29:02 error: Error occurred while creating academicYear. Error:{}
+2023-04-20 06:29:02 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-20 06:29:02 error: Error occurred while creating academicClass. Error:{}
+2023-04-24 17:34:43 error: Error occurred while creating academicYear. Error:{}
+2023-04-24 17:34:43 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-24 17:34:43 error: Error occurred while creating academicClass. Error:{}
+2023-04-24 17:36:31 error: Error occurred while creating academicYear. Error:{}
+2023-04-24 17:36:31 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-24 17:36:31 error: Error occurred while creating academicClass. Error:{}
+2023-04-24 17:42:00 error: Error occurred while creating academicYear. Error:{}
+2023-04-24 17:42:00 error: Error occurred while creating academicClass. Error:{"errors":{"academicYear":{"stringValue":"\"test\"","valueType":"string","kind":"ObjectId","value":"test","path":"academicYear","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}},"_message":"AcademicClassModel validation failed","name":"ValidationError","message":"AcademicClassModel validation failed: academicYear: Cast to ObjectId failed for value \"test\" (type string) at path \"academicYear\" because of \"BSONError\""}
+2023-04-24 17:42:00 error: Error occurred while creating academicClass. Error:{}

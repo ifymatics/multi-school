@@ -1,5 +1,5 @@
 
-import { School } from "./../models/school.model";
+import { School } from "./../models";
 import { NextFunction, Request, Response } from "express";
 import { BadRequestError } from "./../errors/bad-request-error";
 import { NotFoundError } from "./../errors/not-found-error";
@@ -7,10 +7,11 @@ import { InternalServerError } from "./../errors/internal-server-error";
 import { logger } from "./../utils/logger";
 import { generatePassword } from "./../utils/password-generator";
 import { sendEmail } from "./../utils/email-sender";
-import { memCache as cache } from "./../utils/cache";
+import { cache } from "./../utils/cache";
 //import { cache } from "./../utils/redis-cache";
 
 export class AdminController {
+
     static async postSchoolReg(req: Request, res: Response, next: NextFunction) {
         const { name, address, email, contactPerson, phone, regNo } = req.body;
 
@@ -71,7 +72,7 @@ export class AdminController {
 
     static async approveSchool(req: Request, res: Response, next: NextFunction) {
         const id = req.params.id;
-        console.log(id)
+
         try {
             const school = await School.findOne({ _id: id });
             if (!school) {
